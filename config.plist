@@ -256,8 +256,6 @@
 			</dict>
 			<key>PciRoot(0x0)/Pci(0x2,0x0)</key>
 			<dict>
-				<key>framebuffer-patch-enable</key>
-				<data>AQAAAA==</data>
 				<key>AAPL,ig-platform-id</key>
 				<data>AAAbWQ==</data>
 				<key>layout-id</key>
@@ -1278,7 +1276,7 @@
 			<key>SystemProductName</key>
 			<string>MacBookPro14,1</string>
 			<key>SystemSerialNumber</key>
-			<string>C02T50CFHV29</string>
+			<string></string>
 			<key>SystemUUID</key>
 			<string>5B6BE84D-6E07-4F0B-B0C3-7FD3F6574EB1</string>
 		</dict>
